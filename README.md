@@ -1,4 +1,4 @@
-<img src='https://github.com/drkPrince/drkPrince/blob/main/linkedinCover.png' />
+<!-- <img src='https://github.com/drkPrince/drkPrince/blob/main/linkedinCover.png' /> -->
 
 
 ### Interested in Frontend Engineering, UX. 
