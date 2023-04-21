@@ -1,7 +1,7 @@
 <!-- <img src='https://github.com/drkPrince/drkPrince/blob/main/linkedinCover.png' /> -->
 
 
-### Interested in Frontend Engineering, UX. 
+### Interested in Full Stack Engineering 
 
 - 🔭 working in software engineer at Indus Net Technologies.
 - ✨ core values are minimalism, authenticity and independent thinking.
