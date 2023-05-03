@@ -4,7 +4,7 @@
 
 - 🔭 working as a Software Engineer at Indus Net Technologies.
 <!-- - ✨ core values are creative, authenticity and independent thinking. -->
-- 📫 Say hi at dhrvarora9931@gmail.com.
+- 📫 <a href="mailto:dhrvarora9900@gmail.com">Drop a message </a>
 
 <!-- ### Some of my Personal Projects I've worked on - 
 - [Fitness Legion Social](fitnesslegion-social.netlify.app/)
