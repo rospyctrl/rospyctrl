@@ -24,6 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
-To know more about me or read some of my blogs ⟶ [visit my portfolio.](https://dhruvarora.netlify.app/)
+To know more about me or read some of my blogs ⟶ [visit my portfolio.](https://dhruva99.github.io/)
 
 
