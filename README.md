@@ -3,7 +3,6 @@
 ### Interested in Full Stack Engineering 
 
 - 🔭 working as a Software Engineer at Indus Net Technologies.
-<!-- - ✨ core values are creative, authenticity and independent thinking. -->
 - 📫 <a href="mailto:dhrvarora9900@gmail.com">Drop a message </a>
 
 <!-- ### Some of my Personal Projects I've worked on - 
