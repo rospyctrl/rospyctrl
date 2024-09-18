@@ -2,7 +2,7 @@
 
 ### Interested in Full Stack Engineering 
 
-- 🔭 working as a Software Engineer at Indus Net Technologies.
+- 🔭 working as a Software Engineer at Petco.
 - 📫 <a href="mailto:dhrvarora9900@gmail.com">Drop a message </a>
 
 <!-- ### Some of my Personal Projects I've worked on - 
